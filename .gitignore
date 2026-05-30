@@ -1,0 +1,14 @@
+venv/
+ICMS_SP/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+*.zip
+*.tar.gz
+*.egg-info/
+.env
+.DS_Store
